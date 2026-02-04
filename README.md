@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Godfred 👋
 
-<!--
-**GodfredsPrim/GodfredsPrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at the University of Cape Coast.  
+I build practical software, experiment with AI and computer vision,  
+and enjoy turning ideas into clean, usable products.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I’m Working On
+- FocusCam — AI-powered focus and distraction tracking app
+- SkillChain — Web3 skill verification platform (ICP Hackathon)
+- HostelLink UCC — Mobile app for student housing near UCC
+
+---
+
+## 🛠️ Tech Stack
+- Languages: Python, C++, JavaScript
+- Web: Flask, FastAPI, React, Tailwind CSS
+- AI / CV: OpenCV, MediaPipe
+- Tools: Git, GitHub, Netlify, Vercel
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=godfredsprim&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=godfredsprim&layout=compact&theme=tokyonight)
+
+---
+
+## 🌍 Connect With Me
+- LinkedIn: https://linkedin.com/in/godfred-bio-0707052bb
+- Portfolio: (coming soon)
+- Email: godfredbio2004@gmail.com
