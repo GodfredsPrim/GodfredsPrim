@@ -1,61 +1,93 @@
-<p>
-  <img src="./assets/profile-hero.svg" alt="Godfreds PRIMEEE — Building useful things for real people. Web, mobile and AI." width="100%" />
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/profile-hero-mobile.svg" />
+    <img src="./assets/profile-hero.svg" width="100%" alt="Godfreds PRIMEEE. Computer Science student and product builder. Building useful things for real people." />
+  </picture>
 </p>
 
-# Hey, I'm Godfreds PRIMEEE.
+<p align="center">
+  <a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
+  <a href="#toolkit">Toolkit</a> &nbsp; / &nbsp;
+  <a href="#lets-connect">Let's connect</a>
+</p>
 
-**Computer Science student. Product builder. Full-stack developer in progress.**
+<br />
 
-I turn practical ideas into web, mobile, and AI-powered products — especially ones that help people learn, connect, and get things done.
+## Ideas into things people can use.
 
-[Explore my work](#selected-work) · [What I'm building](#building-now) · [Connect](#lets-connect)
+I'm **Godfreds PRIMEEE**, a Computer Science student growing as a full-stack developer. I build web, mobile, and AI-powered products that help people learn, connect, and get things done.
 
----
+I enjoy the whole process: the first sketch, the interface, the API, and the release.
 
-## Building now
-
-I'm growing as a full-stack developer by shipping complete products: interfaces, APIs, mobile experiences, and the infrastructure that connects them.
-
-**[KOBO](https://github.com/GodfredsPrim/kobo-downloads)**  
-A campus marketplace for buying, selling, services, messaging, and Android distribution.  
-`Campus commerce` `Mobile` `Payments`
-
-**[Codement](https://github.com/GodfredsPrim/codement)**  
-An AI-powered coding mentor helping beginners in Africa learn by building.  
-`AI learning` `Python` `Web development`
-
-**[Daakye Analytics Student Companion](https://github.com/GodfredsPrim/Daakye-Analytics-Student-Companion)**  
-Student performance prediction and practical academic guidance.  
-`Education` `Data` `Guidance`
+<br />
 
 ## Selected work
 
-| Project | What it does |
-| :--- | :--- |
-| [KOBO Downloads](https://github.com/GodfredsPrim/kobo-downloads) | Official Android downloads and setup guidance for KOBO. |
-| [Codement](https://github.com/GodfredsPrim/codement) | AI-powered coding mentorship for beginners. |
-| [Daakye Analytics](https://github.com/GodfredsPrim/Daakye-Analytics-Student-Companion) | Student performance prediction and guidance. |
-| [Ghana Power Outage Portal](https://github.com/GodfredsPrim/ghana-power-outage-portal) | Report and track electricity outages. |
+<a href="https://github.com/GodfredsPrim/kobo-downloads">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/project-kobo-mobile.svg" />
+    <img src="./assets/project-kobo.svg" width="100%" alt="KOBO: campus marketplace for buying, selling, services and messaging. View Android downloads and setup guidance." />
+  </picture>
+</a>
 
-## What I work with
+[Explore KOBO downloads](https://github.com/GodfredsPrim/kobo-downloads)
 
-**Web & mobile**  
-JavaScript · TypeScript · React · Node.js · Expo
+<br />
 
-**Data & backend**  
-Python · PostgreSQL · MongoDB
+<a href="https://github.com/GodfredsPrim/codement">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/project-codement-mobile.svg" />
+    <img src="./assets/project-codement.svg" width="100%" alt="Codement: an AI-powered coding mentor helping beginners in Africa learn by building." />
+  </picture>
+</a>
 
-**Design & workflow**  
-Figma · Git · GitHub
+[Explore Codement](https://github.com/GodfredsPrim/codement)
+
+<br />
+
+<a href="https://github.com/GodfredsPrim/Daakye-Analytics-Student-Companion">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/project-daakye-mobile.svg" />
+    <img src="./assets/project-daakye.svg" width="100%" alt="Daakye Analytics Student Companion: student performance prediction and practical academic guidance." />
+  </picture>
+</a>
+
+[Explore Daakye Analytics](https://github.com/GodfredsPrim/Daakye-Analytics-Student-Companion)
+
+<br />
+
+**Also building for everyday problems:** [Ghana Power Outage Portal](https://github.com/GodfredsPrim/ghana-power-outage-portal), a way to report and track electricity outages.
+
+<br />
+
+## Toolkit
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,postgres,mongodb,git,figma&theme=dark&perline=9" width="450" alt="JavaScript, TypeScript, React, Node.js, Python, PostgreSQL, MongoDB, Git and Figma" />
+</p>
+
+| Web & mobile | Data & backend | Design & workflow |
+| :--- | :--- | :--- |
+| JavaScript / TypeScript | Python | Figma |
+| React / Expo | PostgreSQL / MongoDB | Git / GitHub |
+| Node.js | APIs | Product design |
+
+<br />
 
 ## Beyond the code
 
-I also create content through **GTech Vlogs**. I enjoy taking a product from its first sketch through design, development, and release.
+I also create content through **GTech Vlogs**. I'm always learning how to take a practical idea further, from design and development to getting it into people's hands.
 
----
+<br />
 
 ## Let's connect
 
-Open to collaborations, learning opportunities, and useful problems worth solving.
+**Have a useful problem worth solving? Let's build something.**
 
-[GitHub](https://github.com/GodfredsPrim) · [LinkedIn](https://linkedin.com/in/godfreds-prim) · [X / @iam_conquest](https://x.com/iam_conquest)
+Open to collaborations and learning opportunities.
+
+<p>
+  <a href="https://github.com/GodfredsPrim"><img src="https://img.shields.io/badge/GitHub-182C35?style=for-the-badge&logo=github&logoColor=6EE7D8" alt="Visit my GitHub" /></a>
+  <a href="https://linkedin.com/in/godfreds-prim"><img src="https://img.shields.io/badge/LinkedIn-182C35?style=for-the-badge" alt="Connect on LinkedIn" /></a>
+  <a href="https://x.com/iam_conquest"><img src="https://img.shields.io/badge/@iam__conquest-182C35?style=for-the-badge&logo=x&logoColor=6EE7D8" alt="Find @iam_conquest on X" /></a>
+</p>
