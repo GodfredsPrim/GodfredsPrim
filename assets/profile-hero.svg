@@ -17,7 +17,7 @@ text{font-family:Helvetica,Arial,sans-serif}
 </g>
 <path class="line" d="M60 320H820" stroke="#002FA7" stroke-width="3"/>
 <text x="60" y="365" fill="#002FA7" font-size="18">Web / Mobile / AI</text>
-<g fill="none" stroke="#FFFFFF" stroke-width="3">
+<g transform="translate(70 0)" fill="none" stroke="#FFFFFF" stroke-width="3">
 <path d="M1035 170L1085 200L1035 230M1005 170L955 200L1005 230"/>
 <path d="M1035 140L1005 260"/>
 </g>
